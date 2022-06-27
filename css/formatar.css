@@ -1,0 +1,20 @@
+html{
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    border: 0ch;
+    padding: 0%;
+    margin: auto;
+}
+
+.tags{
+    width: 50%;
+    float: left;
+    padding-block: 2%;
+}
+
+.seletores{
+    width: 50%;
+    float: right;
+    padding-block: 2%;
+}
+
